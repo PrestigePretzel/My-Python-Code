@@ -1,6 +1,4 @@
-# Python program to check if the input number is odd or even.
-# A number is even if division by 2 give a remainder of 0.
-# If remainder is 1, it is odd number.
+#this script checks if a number is even or odd
 
 num = int(input("Enter a number: "))
 if (num % 2) == 0:
